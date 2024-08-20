@@ -4,7 +4,9 @@ Welcome to the Algoritmi Club's guide to starting a project and exploring new id
 
 ## About Algoritmi Club
 
-Algoritmi is a student-driven club at UiT Narvik, focused on programming, AI, and technology innovation. We meet every Thursday at 5 PM in room E1600. Our goal is to create a collaborative environment where students can develop their skills, work on real-world projects, and build a strong professional network.
+Algoritmi is a student-driven club at UiT Narvik, focused on programming, AI, and technology innovation. 
+## **We meet every Thursday at 5 PM in room E1600**. 
+Our goal is to create a collaborative environment where students can develop their skills, work on real-world projects, and build a strong professional network.
 
 ## How to Start a Project
 
